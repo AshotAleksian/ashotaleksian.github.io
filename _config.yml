@@ -8,8 +8,8 @@ email: ashot.aleksian (at) univ-st-etienne (dot) fr
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Ashot Aleksian, Aleksian, personal website
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical:
+description: This is an academic personal website of Ashot Aleksian.
+canonical: https://ashotaleksian.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
