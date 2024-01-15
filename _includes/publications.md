@@ -8,6 +8,20 @@
 <div class="pub-row">
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://theses.hal.science/INSA-LYON-THESES/tel-04287981">Exit-problem for Self-interacting and Self-stabilizing Diffusion Processes</a></div>
+    <div class="author">Ashot Aleksian</div>
+    <div class="periodical"><em>PhD thesis, 2023.</em></div>
+    <div class="links">
+    <a href="https://theses.hal.science/INSA-LYON-THESES/tel-04287981" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2310.20471.pdf">Measure-dependent non-linear diffusions with superlinear drifts: asymptotic behaviour of the first exit-times</a></div>
     <div class="author"><strong>Ashot Aleksian</strong>, and Julian Tugaut</div>
     <div class="periodical"><em><strong>preprint</strong>, 2023.</em></div>
