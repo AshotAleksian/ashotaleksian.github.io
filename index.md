@@ -33,7 +33,3 @@ Probability theory and stochastic analysis. In particular:
 </ul>
 
 </details>
-
-<!-- 
-{% include_relative _includes/services.md %} 
--->

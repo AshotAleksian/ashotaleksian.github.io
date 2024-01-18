@@ -34,6 +34,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 |   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
 |   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
 ├── assets                                    #  some files
+|   └── temp-files                            #  directory for temporary files that don't go to the web-site
 ├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
 ├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
 ├── Gemfile                                   #  a RubyGems related file
