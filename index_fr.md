@@ -16,6 +16,10 @@ Théorie des probabilités et analyse stochastique. En particulier :
 <summary>   Nouvelles </summary>
 
 <ul>
+    <li><strong>[Avr. 2024]</strong> Une présentation intitulée 'Temps de sortie pour le processus de type McKean-Vlasov : au-delà du cas convexe' lors du séminaire de l'équipe SPOC à l'Institut de Mathématiques de Bourgogne à Dijon, France.</li>    
+    <li><strong>[Mar. 2024]</strong> J'ai présenté des résultats récemment obtenus lors d'un exposé intitulé 'Temps de sortie pour le processus de type McKean-Vlasov : au-delà du cas convexe' lors du séminaire de l'équipe Probabilités, Analyse et Statistique à l'Université Clermont Auvergne, Clermont-Ferrand, France.</li>    
+    <li><strong>[Fév. 2024]</strong> J'ai donné une présentation intitulée 'Métastabilité pour des processus non-linéaires : Nouveaux résultats et questions ouvertes' lors du séminaire de l'équipe Probabilité à l'IRMAR, Rennes, France.</li>  
+    <li><strong>[Fév. 2024]</strong> Un exposé intitulé 'Metastability for non-linear processes' lors du séminaire de l'équipe ProbaStat à Poitiers, France.</li>
     <li><strong>[Nov. 2023]</strong> Début d'un poste de recherche post-doctorale à l'École d'Économie de Toulouse (Toulouse School of Economics - TSE) à Toulouse, France.</li>
     <li><strong>[Nov. 2023]</strong> J'ai soutenu ma thèse de doctorat intitulée "Problème de sortie pour les processus de diffusion auto-interactifs et auto-stabilisants". Consultez le texte complet <a href="https://theses.hal.science/INSA-LYON-THESES/tel-04287981v1">ici</a>.</li>
     <li><strong>[Oct. 2023]</strong> Nous avons fini un article montrant la loi de type Kramers et le résultat de localisation de sortie pour le processus de diffusion de type McKean-Vlasov dans un paysage à puits multiples avec la terme d'interaction généralisé. La prépublication se trouve <a href="https://arxiv.org/pdf/2310.20471.pdf">ici</a>.</li>
