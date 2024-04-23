@@ -19,6 +19,10 @@ Probability theory and stochastic analysis. In particular:
 <summary> News </summary>
 
 <ul>
+    <li><strong>[Apr. 2024]</strong> A talk titled &quot;Exit-time for McKean-Vlasov processes: beyond the convex case&quot; at the seminar of the SPOC team at Institut de Mathématiques de Bourgogne in Dijon, France.</li>    
+    <li><strong>[Mar. 2024]</strong> I presented recently obtained results in a talk titled &quot;Exit-time for McKean-Vlasov processes: beyond the convex case&quot; at the research seminar of the Probabilités, Analyse et Statistique team at Clermont Auvergne University, Clermont-Ferrand, France.</li>    
+    <li><strong>[Feb. 2024]</strong> I gave a talk titled &quot;Metastability for non-linear processes: new results and open questions&quot; at the research seminar of the Probability team at IRMAR Institut in Rennes, France.</li>    
+    <li><strong>[Feb. 2024]</strong> A talk titled &quot;Metastability for non-linear processes&quot; that I gave at the research seminar of the ProbaStat team at Poitiers, France.</li>
     <li><strong>[Nov. 2023]</strong> Start of a post-doctoral research position at Toulouse School of Economics (TSE) in Toulouse, France.</li>
     <li><strong>[Nov. 2023]</strong> I successfully defended my PhD thesis entitled “Exit-problem for Self-interacting and Self-stabilizing Diffusion Processes”. See the full text <a href="https://theses.hal.science/INSA-LYON-THESES/tel-04287981v1">here</a>.</li>
     <li><strong>[Oct. 2023]</strong> We finished a paper showing Kramers' type law and the exit-location result for McKean-Vlasov diffusion process in multi-well landscape with generalazied interaction term. Preprint can be found <a href="https://arxiv.org/pdf/2310.20471.pdf">here</a>.</li>
