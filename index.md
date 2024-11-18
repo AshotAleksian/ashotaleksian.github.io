@@ -19,6 +19,10 @@ Probability theory and stochastic analysis. In particular:
 <summary> News </summary>
 
 <ul>
+    <li><strong>[Nov. 2024]</strong> A talk on the &quot;LSA Winter meeting&quot; workshop in HSE university Moscow, Russia</li>
+    <li><strong>[Sep. 2024]</strong> Our paper <a href="https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/Measure-dependent-non-linear-diffusions-with-superlinear-drifts--asymptotic/10.1214/24-EJP1229.full">&quot;Measure-dependent non-linear diffusions with superlinear drifts: asymptotic behaviour of the first exit-times&quot;</a> is now published in Electron. J. Probab.</li>
+    <li><strong>[June 2024]</strong> I gave a talk &quot;Exit-time problem for some non-Markovian diffusion processes&quot; on &quot;Journées de Probabilités 2024&quot; in Bordeaux, France.</li> 
+    <li><strong>[June 2024]</strong> A presentation on the TSE doctoral workshop in Toulouse, France.</li> 
     <li><strong>[Apr. 2024]</strong> A talk titled &quot;Exit-time for McKean-Vlasov processes: beyond the convex case&quot; at the seminar of the SPOC team at Institut de Mathématiques de Bourgogne in Dijon, France.</li>    
     <li><strong>[Mar. 2024]</strong> I presented recently obtained results in a talk titled &quot;Exit-time for McKean-Vlasov processes: beyond the convex case&quot; at the research seminar of the Probabilités, Analyse et Statistique team at Clermont Auvergne University, Clermont-Ferrand, France.</li>    
     <li><strong>[Feb. 2024]</strong> I gave a talk titled &quot;Metastability for non-linear processes: new results and open questions&quot; at the research seminar of the Probability team at IRMAR Institut in Rennes, France.</li>    
