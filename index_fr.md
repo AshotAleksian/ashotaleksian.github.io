@@ -16,6 +16,10 @@ Théorie des probabilités et analyse stochastique. En particulier :
 <summary>   Nouvelles </summary>
 
 <ul>
+    <li><strong>[Nov. 2024]</strong> Une présentation lors du workshop &quot;LSA Winter meeting&quot; à l'université HSE de Moscou, Russie</li>
+    <li><strong>[Sep. 2024]</strong> Notre article <a href="https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/Measure-dependent-non-linear-diffusions-with-superlinear-drifts--asymptotic/10.1214/24-EJP1229.full">&quot;Measure-dependent non-linear diffusions with superlinear drifts: asymptotic behaviour of the first exit-times&quot;</a> est désormais publié dans Electron. J. Probab.</li>
+    <li><strong>[Juin 2024]</strong> J'ai donné une présentation intitulée &quot;Problème du temps de sortie pour des processus non-markoviens&quot; lors des &quot;Journées de Probabilités 2024&quot; à Bordeaux, France.</li>
+    <li><strong>[Juin 2024]</strong> Une présentation lors du workshop doctoral de TSE à Toulouse, France.</li>
     <li><strong>[Avr. 2024]</strong> Une présentation intitulée 'Temps de sortie pour le processus de type McKean-Vlasov : au-delà du cas convexe' lors du séminaire de l'équipe SPOC à l'Institut de Mathématiques de Bourgogne à Dijon, France.</li>    
     <li><strong>[Mar. 2024]</strong> J'ai présenté des résultats récemment obtenus lors d'un exposé intitulé 'Temps de sortie pour le processus de type McKean-Vlasov : au-delà du cas convexe' lors du séminaire de l'équipe Probabilités, Analyse et Statistique à l'Université Clermont Auvergne, Clermont-Ferrand, France.</li>    
     <li><strong>[Fév. 2024]</strong> J'ai donné une présentation intitulée 'Métastabilité pour des processus non-linéaires : Nouveaux résultats et questions ouvertes' lors du séminaire de l'équipe Probabilité à l'IRMAR, Rennes, France.</li>  
