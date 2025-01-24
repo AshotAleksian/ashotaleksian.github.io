@@ -8,6 +8,20 @@
 <div class="pub-row">
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2501.11797">Freidlin-Wentzell type exit-time estimates for time-inhomogeneous diffusions and their applications</a></div>
+    <div class="author">Ashot Aleksian, Stéphane Villeneuve</div>
+    <div class="periodical"><em>preprint, 2025.</em></div>
+    <div class="links">
+    <a href="https://arxiv.org/pdf/2501.11797" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://theses.hal.science/INSA-LYON-THESES/tel-04287981">Exit-problem for Self-interacting and Self-stabilizing Diffusion Processes</a></div>
     <div class="author">Ashot Aleksian</div>
     <div class="periodical"><em>PhD thesis, 2023.</em></div>
@@ -43,7 +57,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2306.08706.pdf">Exit-problem for a class of non-Markov processes with path dependency</a></div>
     <div class="author"><strong>Ashot Aleksian</strong>, Aline Kurtzmann, and Julian Tugaut</div>
-    <div class="periodical"><em>on revision for <strong>PTRF</strong>, 2023.</em></div>
+    <div class="periodical"><em>preprint, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2306.08706" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <!--<a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
